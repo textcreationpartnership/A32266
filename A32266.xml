@@ -1,0 +1,224 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties gracious speech to both Houses of Parliament, January 24, 1673/4 as also, a letter from the States General of the United Provinces, to His Majesty the King of Great Britain, &amp;c., January 14/24, 1673/4 : together with certain proposals from the said States-General to His Majesty, concerning a peace.</title>
+            <author>Charles II, King of England, 1630-1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32266</idno>
+            <idno type="STC">Wing C3056</idno>
+            <idno type="STC">ESTC R540</idno>
+            <idno type="EEBO-CITATION">12952518</idno>
+            <idno type="OCLC">ocm 12952518</idno>
+            <idno type="VID">95983</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32266)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95983)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 733:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties gracious speech to both Houses of Parliament, January 24, 1673/4 as also, a letter from the States General of the United Provinces, to His Majesty the King of Great Britain, &amp;c., January 14/24, 1673/4 : together with certain proposals from the said States-General to His Majesty, concerning a peace.</title>
+                  <author>Charles II, King of England, 1630-1685.</author>
+                  <author>United Provinces of the Netherlands. Staten Generaal.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assigns of John Bill and Christopher Barker ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673/4.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Treaty of Breda (1667)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95983:1"/>
+            <p>His Majeſties GRACIOUS SPEECH To both Houſes of <hi>Parliament, January</hi> 24. 1673/4.</p>
+            <p>As alſo A LETTER From the States-General of the <hi>
+                  <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>ted Provinces,</hi> to His Majeſty the King of <hi>Great Britain,</hi> &amp;c. <hi>January</hi> 14/24. 1673/4.</p>
+            <p>Together with certain PROPOSALS from the ſaid States-General to His Majeſty, CONCERNING A PEACE.</p>
+            <figure>
+               <figDesc>royal blazon or coat of arms</figDesc>
+               <head>C R</head>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+               <q>DIEV ET MON DROIT</q>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed by the Aſſigns of <hi>John Bill</hi> and <hi>Christopher Barker,</hi> Printers to the Kings moſt Excellent Majeſty, 1673/4.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:95983:2"/>
+            <pb n="3" facs="tcp:95983:2"/>
+            <head>His Majeſties GRACIOUS SPEECH To both Houſes of PARLIAMENT.</head>
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>T the beginning of this Seſsion I told you, as I thought I had reaſon to do, that the States-General had not yet made Me any Propo<g ref="char:EOLhyphen"/>ſals which could be imagin'd with in<g ref="char:EOLhyphen"/>tent to conclude, but only to amuſe.</p>
+            <p>To avoid this imputation, they have now ſent Me a Letter by the <hi>Spaniſh</hi> Ambaſsador, offering Me ſome terms of Peace, upon Conditions formally drawn up, and in a more de<g ref="char:EOLhyphen"/>cent ſtile then before.</p>
+            <p>It is upon This, that I deſire your ſpee<g ref="char:EOLhyphen"/>dy
+<pb n="4" facs="tcp:95983:3"/>advice; for if you ſhall find the terms ſuch as may be embraced, your advice will have great weight with Mee; and if you find them defective, I hope you will give Me your advice and aſsiſtance how to get better terms.</p>
+            <p>
+               <g ref="char:V">Ʋ</g>pon the whole matter, I doubt not but you will have a care of My Honor, and the Honor and Safety of the Nation, which are now ſo deep<g ref="char:EOLhyphen"/>ly concerned.</p>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:95983:3"/>
+            <head>A LETTER FROM THE <hi>STATES GENERAL,</hi> &amp;c.</head>
+            <head type="sub">TO His Majeſty OF GREAT BRITAIN.</head>
+            <opener>
+               <salute>SIRE,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Aving obſerved that Your Majeſty in Your Speech made lately to the Parliament, (which was Printed by Your Majeſties Order) ſeems ſtill to doubt the Sincerity of our Intentions, and accuſes us to have made Your Majeſty Overtures of a Peace, only to gain time, and without deſigning to come to any Concluſion thereupon; We find our ſelves obliged to repeat to Your Majeſty the Offers, which our Plenipotentiaries at <hi>Cologne,</hi> have, we ſuppoſe; made in our. Name to thoſe of Your Ma<g ref="char:EOLhyphen"/>jeſty; and to ſend you a Project of a Treaty which we are ready to Sign without any further Conferences of longer deferring the Concluſion of a Peace, which we have always ſo earneſtly deſired.</p>
+            <pb n="6" facs="tcp:95983:4"/>
+            <p>And that Your Majeſty may the better com<g ref="char:EOLhyphen"/>prehend how far You have reaſon to be ſatisfied with our Propoſals which we make, and with how much reaſon we promiſe our ſelves a happy Iſſue upon them, we beſeech Your Majeſty to Conſider in the firſt place, That the Renewal of the Treaty of <hi>Breda</hi> which we offer, is the moſt ſolid foundation of a firm and durable Friendſhip, as we have already ſhown in our Letter of the 9/19 <hi>December,</hi> and that upon the ſame Conſideration we add to it the Marine Treaty concluded at the <hi>Hague</hi> in the year 1668.</p>
+            <p>But ſeeing the 19<hi rend="sup">th</hi> Article of the ſaid Treaty of <hi>Breda</hi> has been differently interpreted, and that Your Majeſty againſt what we have always judged, has pretended, that by virtue of this Ar<g ref="char:EOLhyphen"/>ticle, our whole Fleets as well as ſingle Ships were obliged to ſtrike their Flags and their Top<g ref="char:EOLhyphen"/>ſails, upon meeting of the leaſt Man of War of Your Majeſties; We have thought that we can<g ref="char:EOLhyphen"/>not give Your Majeſty any greater Teſtimony of the reſpect we have for Your Royal Perſon, and of our earneſt deſire to obtain anew the honour of Your good Will, then by yielding to Your Majeſty in the <hi>Britiſh</hi> Seas what you have deman<g ref="char:EOLhyphen"/>ded from us in that Particular, and by regulating the Ceremony of the Flagg according to the Pro<g ref="char:EOLhyphen"/>ject Your Majeſties Plenipotentiaries ſent us themſelves from the <hi>French</hi> Camp, at a time when our Commonwealth was reduced to the greateſt ſtreights.</p>
+            <p>The ſecond Article, by which we agree to the nomination of Commiſsioners within 3. Moneths after the Concluſion of the Peace, for a Regula<g ref="char:EOLhyphen"/>tion
+<pb n="7" facs="tcp:95983:4"/>of the Trade in the <hi>Indies</hi> and other places, is alſo according to the abovementioned Project which was ſent us from the <hi>French</hi> Camp, and to the Propoſal made to us by the Mediators at <hi>Cologne</hi> the 19. of <hi>July</hi> laſt, with the knowledge of Your Majeſties Plenipotentiaries.</p>
+            <p>For what concerns <hi>Surinam,</hi> we have made an Article of it, onely for Your Majeſties ſatisfaction in Particular, being (without any new obligati<g ref="char:EOLhyphen"/>on) as we have hitherto been, and ſhall always be, moſt ready to give the <hi>Engliſh</hi> Inhabitants at <hi>Su<g ref="char:EOLhyphen"/>rinam</hi> leave to tranſport themſelves elſewhere when ever they deſire it.</p>
+            <p>The 4<hi rend="sup">th</hi> Article, though in reciprocal Terms, manifeſts ſufficiently to what degree we deſire to merit Your Majeſties affection, ſeeing we offer Your Majeſty the reſtitution of ſo Conſiderable an Acquiſition as the <hi>New Netherlands,</hi> without hoping for any thing in Exchange.</p>
+            <p>And the laſt Article, by which we Confirm what the moſt Serene King of <hi>Spains</hi> Ambaſſador has offered to Your Majeſty in purſuance of the Treaty between <hi>Spain</hi> and us in <hi>Auguſt</hi> laſt, is a clear proof, that our deſires of advancing the Peace, are above all other Conſiderations, ſeeing we have agreed to give ſo Conſiderable a Sum; when we cannot be accuſed, with Juſtice, of the leaſt Contravention againſt the Treaties between your Majeſty and us.</p>
+            <p>And to let Your Majeſty ſee how far we are perſwaded of our innocence in this reſpect, we declare hereby again to Your Majeſty, as we have already done in our above mentioned Let<g ref="char:EOLhyphen"/>ter, That we are ready to enter into an Exami<g ref="char:EOLhyphen"/>nation
+<pb n="8" facs="tcp:95983:5"/>before Your Majeſty, about all the Infra<g ref="char:EOLhyphen"/>ctions we are accuſed of, with a ſolemn Promiſe to make Reparation for all the Wrong and In<g ref="char:EOLhyphen"/>juries Your Majeſty and Your Subjects may have received unknown to us, from us, or our Officers, from the Treaty of <hi>Breda,</hi> till the begin<g ref="char:EOLhyphen"/>ning of this War; offering further the <hi>Guarantie</hi> of our Allies for the performing of this Promiſe, and conſenting that it may be Inſerted in the Treaty to make it more Authentick.</p>
+            <p>The above mentioned Five Artioles contain in the moſt clear and beſt manner, all what Your Majeſty has demanded in Your Anſwer to the Marquis <hi>del Frezno</hi>'s Memorial, Excepting what concerns the Fiſhery; Upon which we are obli<g ref="char:EOLhyphen"/>ged to tell Your Majeſty, That <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e cannot believe, that after all the Advances which we have made to give Your Majeſty all poſſible ſatisfaction; And after the Offer we make of ſo Honourable a Peace, and ſo advantageous to Your Majeſty and Your Kingdoms, You would ſtop the con<g ref="char:EOLhyphen"/>cluſion thereof upon a motive or conſideration of this kind, and oblige us to Grant what Your Majeſties Predeceſſor have never ſtipulated in any Treaty which has been Concluded between them and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Commonwealth, and of which Your Majeſty Your ſelf has not made the leaſt mention, neither in the Treaty of 1662. nor that of 1667. And ſeeing alſo that Article was never any part of Your Majeſties Complaints. That it has nothing relating to the War Your Majeſty has declared againſt us; And that laſtly, we onely deſire in this particular, what our Inhabi<g ref="char:EOLhyphen"/>tants have without interruption enjoyed for ſome
+<pb n="9" facs="tcp:95983:5"/>ages, and without the ariſing of any differences upon this account, which did alter the Friend<g ref="char:EOLhyphen"/>ſhip and good Correſpondence between the two Nations.</p>
+            <p>The matter being thus, nothing remains but the perfecting a Work already ſo advanced, and whether Your Majeſty deſires the thing may be done at <hi>London,</hi> or <hi>Cologne:</hi> The whole Negoti<g ref="char:EOLhyphen"/>ation, if Your Majeſty pleaſes, will onely conſiſt in putting the Project we ſend Your Majeſty, into the form of a Treaty, hoping that Your Majeſty will not ſuffer the quiet of Your Peo<g ref="char:EOLhyphen"/>ple, and the good of Your Kingdoms to depend upon particular Intereſts of the Crown of <hi>France,</hi> which continues Entirely to ſtop the Conferen<g ref="char:EOLhyphen"/>ces at <hi>Cologne,</hi> by refuſing to give Paſsports to the Duke of <hi>Lorrains</hi> Miniſters, and to receive him into the Negotiation of the Peace, (in which he muſt neceſſarily be admitted, in virtue of the Treaties concluded between his Imperial Maje<g ref="char:EOLhyphen"/>ſty, the moſt ſerene King of <hi>Spain,</hi> and us) without other aim but of engaging Your Majeſty further and further in this ſad War, ſo deſtructive to all <hi>Europe,</hi> the continuing whereof may have ſo ill Conſequences. And as the Offers we here make to Your Majeſty, are real and ſincere, we are rea<g ref="char:EOLhyphen"/>dy to Execute them <hi>bona fide,</hi> if Your Majeſty be pleaſed to Conclude a Treaty of Peace with us, without dependance upon Forreign Intereſts, which can onely make this Negotiation ineffe<g ref="char:EOLhyphen"/>ctual.</p>
+            <p>We have many things to add in anſwer to the Complaints without ground made by the Lord Keeper, of us, in his Speech, and to the unjuſt
+<pb n="10" facs="tcp:95983:6"/>Interpretations he makes of our Conduct: But as we are willing to believe, and flatter our ſelves with the hopes, that what we offer here to Your Majeſty, will give you an entire ſatisfa<g ref="char:EOLhyphen"/>ction, and put an end to our unhappy Differen<g ref="char:EOLhyphen"/>ces; We believe it better to forget, and paſs over whatever there might be of Animoſities and ſharpneſs, then longer to keep open the Wounds, we deſire to heal. In the mean while, in expectation of Your Majeſties anſwer, we pray to God, <hi>&amp;c.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>Hague,</hi> 
+                  <date>
+                     <hi>January</hi> 24<hi rend="sup">th</hi> 1674.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="proposals">
+            <pb n="11" facs="tcp:95983:6"/>
+            <head>CERTAIN PROPOSALS FROM THE <hi>STATES-GENERAL</hi> OF THE UNITED PROVINCES, TO HIS MAJESTY OF Great Britain, &amp;C. Concerning a PEACE.</head>
+            <p>THat the Treaty of <hi>Breda</hi> be Con<g ref="char:EOLhyphen"/>firmed and Renewed, and the Ma<g ref="char:EOLhyphen"/>rine Treaty, made at the <hi>Hague</hi> in the year 1668.</p>
+            <div n="1" type="article">
+               <head>Article <hi>1.</hi>
+               </head>
+               <p>It is alſo agreed, That the Ships and Veſſels be<g ref="char:EOLhyphen"/>longing to the United Provinces, as well Men of War and Ships of Defence, as others, whether they be ſingle, or in Fleets, which ſhall happen to meet the King of <hi>Great Britain</hi>'s Men of War in the Britiſh Seas, whether they alſo be ſingle, or more in number, provided they carry the Kings Flag, ſhall ſtrike their Flag, and low<g ref="char:EOLhyphen"/>er their Topſail: And the ſaid States of the
+<pb n="12" facs="tcp:95983:7"/>United Provinces ſhall order all the Command<g ref="char:EOLhyphen"/>ers of their Ships and Fleets fully, and <hi>bona fide</hi> to comply with this Article.</p>
+            </div>
+            <div n="2" type="article">
+               <head>Article <hi>2.</hi>
+               </head>
+               <p>And to the end that the Security of the mutual Friendſhip between the ſaid King and tho ſaid States-General, their Subjects and Inhabitants, may be the more ſincerely obſerved, and that all occaſions of future Differences and Conten<g ref="char:EOLhyphen"/>tions may be taken away, It is alſo agreed, That certain convenient Laws concerning Trade and Commerce be eſtabliſhed, which may reduce the Navigation and Commerce of both Parties in the <hi>Indies,</hi> and other places out of <hi>Europe,</hi> to an exact and reciprooal Rule; and limit the ſame within certain Laws to be perpetually obſer<g ref="char:EOLhyphen"/>ved. And becauſe this matter ſeems of too great difficulty, to be out of hand perfected, both Par<g ref="char:EOLhyphen"/>ties conſent it ſhall be deferred to a more oppor<g ref="char:EOLhyphen"/>tune occaſion; and that Commiſſioners be no<g ref="char:EOLhyphen"/>minated within the ſpace of Three Moneths after the Concluſion of this Peace, without fur<g ref="char:EOLhyphen"/>ther delay, who ſhall meet at <hi>London,</hi> and agree upon ſome certainty, as well concerning the de<g ref="char:EOLhyphen"/>ſigning, and circumſcribing within a certain bound the Kinds of Merchandiſes, as concern<g ref="char:EOLhyphen"/>ing Laws of Navigation and Commerce; and define the ſame with new and mutual Articles of Convention: but upon condition, that this whole matter ſhall be tranſacted in an amicable way and manner.</p>
+            </div>
+            <div n="3" type="article">
+               <pb n="13" facs="tcp:95983:7"/>
+               <head>Article <hi>3.</hi>
+               </head>
+               <p>And that this Peace, Friendſhip and Confe<g ref="char:EOLhyphen"/>deration may be eſtabliſhed upon a firm and unſhaken Foundation; and that from this day, all occaſions of new Differences and Diſputes may be taken away: It is further agreed, That whereas the Colony of <hi>Surinam</hi> has been acqui<g ref="char:EOLhyphen"/>red by the ſaid States-General by Right of War upon certain Articles agreed upon between Captain <hi>Abraham Quirini,</hi> and <hi>William Biam, March</hi> the ſixth in the year 1667. And that by the Fifth Article of the ſame it is agreed, That in caſe any of the Inhabitants of the ſaid Colony ſhould deſire, then or afterwards to remove from the ſaid Colony elſewhere, they ſhould have liberty freely to Sell their Eſtates and Goods, and that the Governour in ſuch caſe ſhould take care to Provide a conveni<g ref="char:EOLhyphen"/>ency of Tranſportation for them and their Goods, at a moderate Rate: And alſo by the Nineteenth Article of the ſaid Agreement, that the Governour <hi>Quirini</hi> ſhould give Let<g ref="char:EOLhyphen"/>ters of ſafe Conduct, and Paſsports to ſuch who ſhould have a mind to go away, and that they might carry their Slaves with them; Provided ſtill that they ſhould be obliged to depart and Sail together with our people. And whereas the ſaid King of <hi>England</hi> judges and believes that the ſaid Articles have not been well obſer<g ref="char:EOLhyphen"/>ved, and that divers Engliſh Inhabitants re<g ref="char:EOLhyphen"/>main there, who ſtill deſire to leave the Place with their Goods, in purſuance of the ſaid Ar<g ref="char:EOLhyphen"/>ticles;
+<pb n="14" facs="tcp:95983:8"/>The ſaid States-General do by theſe Pre<g ref="char:EOLhyphen"/>ſents promiſe, That they will moſt ſincerely and <hi>bona fide</hi> take care that the ſaid Articles, and what was agreed upon at the Congreſs held afterwards at <hi>London</hi> concerning the Execution of them, and the Orders from the ſaid States-General in purſuance thereof be ſpeedily exe<g ref="char:EOLhyphen"/>cuted and complied with; and that alſo the ſpace of Three Moneths ſhall be allowed to the ſaid Inhabitants for the Selling of their Eſtates according to the Tenor of the ſaid Articles, and their Tranſportation at a moderate Rate whi<g ref="char:EOLhyphen"/>ther they will, and that they ſhall be permitted to carry away their Slaves with them.</p>
+            </div>
+            <div n="4" type="article">
+               <head>Article <hi>4.</hi>
+               </head>
+               <p>It is alſo Agreed and Concluded, That if either Party ſhall, during this War, have Taken or Poſſeſſed themſelves of any Countries, Iſlands, Towns, Forts, Colonies, or other Places belonging to the other Party, all and every of the ſame, without any diſtinction of place or time, ſhall be immediately, and <hi>bona fide</hi> Reſtored in the ſame Condition they ſhall happen to be in, when notice ſhall come of the Concluſion of this Peace to thoſe Places.</p>
+            </div>
+            <div n="5" type="article">
+               <head>Article <hi>5.</hi>
+               </head>
+               <p>And to the end that all occaſions and cauſes of new Queſtions, Pretenſions, and Actions, may be quite Rooted out, of what ſort ſoever they be, or by what Name or Pretext ſoever
+<pb n="15" facs="tcp:95983:8" rendition="simple:additions"/>Claimed, and that the Foundations they ſeem to Stand upon may be wholly Deſtroyed and Removed; The ſaid States-General Promiſe to Pay to His Majeſty. <hi>Eight hundred thou<g ref="char:EOLhyphen"/>ſand Patacoons,</hi> which Sum the ſaid States-General of the United Netherlands have for certain Reaſons Promiſed to Pay, by a Treaty made in the year 1673, between the King of <hi>Spain</hi> and them the ſaid States, and which the Ambaſſadour of the ſaid King has offered in their Name, to the King of <hi>Great Britain:</hi> the ſaid Sum to be Paid at certain days as follow<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, <hi>viz.</hi> A Fourth part thereof aſſoon as the <gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>fications ſhall be exhibited, and the Reſt <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Three enſuing years by equal Portions.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
